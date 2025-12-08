@@ -1,2 +1,6 @@
-mysql:8.0
+redis:latest
 postgres:18
+busybox:latest
+rockylinux:9
+nginx:latest
+httpd:2.4
