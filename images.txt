@@ -10,3 +10,4 @@ prom/node-exporter:v1.10.2
 prom/mysqld-exporter:v0.18.0
 grafana/grafana:12.1
 grafana/loki:latest
+google/cadvisor:latest
