@@ -12,4 +12,4 @@ grafana/grafana:12.1
 grafana/loki:latest
 google/cadvisor:latest
 sebp/elk:9.2.2
-mysql:8.0
+mysql:8.0.36
