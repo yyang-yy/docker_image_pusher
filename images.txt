@@ -11,5 +11,4 @@ prom/mysqld-exporter:v0.18.0
 grafana/grafana:12.1
 grafana/loki:latest
 google/cadvisor:latest
-sebp/elk:9.2.2
-mysql:8.0.36
+php:latest
